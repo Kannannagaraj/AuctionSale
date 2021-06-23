@@ -1,0 +1,47 @@
+{
+  "AuctionEvent": "California Property – Auction sale",
+  "SellerItem": "Property XYZ",
+  "BasePrice": 50000,
+  "MaxBidderCount": 5,
+  "AutoIncrementLimit": 5000,
+  "EventStarttime": "10 AM",
+  "EventEndtime": "10.30 AM",
+  "BidDetails": [
+    {
+      "BidderName": "kannan",
+      "StartBidAmount": 60000,
+      "MaxBidAmount": 90000,
+      "AutoIncrementAmount": 2000,
+      "IsOutofAuction": false
+    },
+{
+      "BidderName": "log",
+      "StartBidAmount": 55000,
+      "MaxBidAmount": 95000,
+      "AutoIncrementAmount": 1000,
+      "IsOutofAuction": false
+    },
+{
+      "BidderName": "rakesh",
+      "StartBidAmount": 52000,
+      "MaxBidAmount": 125000,
+      "AutoIncrementAmount": 5000,
+      "IsOutofAuction": false
+    },
+{
+      "BidderName": "karthi",
+      "StartBidAmount": 51000,
+      "MaxBidAmount": 100000,
+      "AutoIncrementAmount": 2000,
+      "IsOutofAuction": false
+    },
+{
+      "BidderName": "vivek",
+      "StartBidAmount": 52000,
+      "MaxBidAmount": 110000,
+      "AutoIncrementAmount": 4000,
+      "IsOutofAuction": false
+    }
+
+  ]
+}
