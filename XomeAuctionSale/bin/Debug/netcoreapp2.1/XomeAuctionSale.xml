@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>XomeAuctionSale</name>
+    </assembly>
+    <members>
+        <member name="M:XomeAuctionSale.Controllers.Auctionsale.GetAuctionEventDetails">
+            <summary>
+            Get list of auction event details
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:XomeAuctionSale.Controllers.Auctionsale.BidForAuctionEvent(System.Int32,AuctionBussinessLogic.BidDetails)">
+            <summary>
+            make bid for auction based on auction id
+            </summary>
+            <param name="auctionEventId"></param>
+            <param name="bidDetails"></param>
+            <returns></returns>
+        </member>
+        <member name="M:XomeAuctionSale.Controllers.Auctionsale.GetAuctionWinningAmount1(AuctionBussinessLogic.AuctionSalesDetails)">
+            <summary>
+            Get the winner of the auction sale
+            </summary>
+            <param name="auctionSalesDetails"></param>
+            <returns></returns>
+        </member>
+        <member name="M:XomeAuctionSale.Controllers.Auctionsale.GetAuctionWinningAmount2(AuctionBussinessLogic.AuctionSalesDetails)">
+            <summary>
+            Get the winner of the auction sale
+            </summary>
+            <param name="auctionSalesDetails"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
