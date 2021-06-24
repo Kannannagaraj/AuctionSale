@@ -1,0 +1,12 @@
+D:\programs\AuctionServiceLayer\bin\Debug\netcoreapp2.1\AuctionServiceLayer.deps.json
+D:\programs\AuctionServiceLayer\bin\Debug\netcoreapp2.1\AuctionServiceLayer.dll
+D:\programs\AuctionServiceLayer\bin\Debug\netcoreapp2.1\AuctionServiceLayer.pdb
+D:\programs\AuctionServiceLayer\bin\Debug\netcoreapp2.1\AuctionBussinessLogic.dll
+D:\programs\AuctionServiceLayer\bin\Debug\netcoreapp2.1\AuctionBussinessLogic.pdb
+D:\programs\AuctionServiceLayer\obj\Debug\netcoreapp2.1\AuctionServiceLayer.csproj.AssemblyReference.cache
+D:\programs\AuctionServiceLayer\obj\Debug\netcoreapp2.1\AuctionServiceLayer.AssemblyInfoInputs.cache
+D:\programs\AuctionServiceLayer\obj\Debug\netcoreapp2.1\AuctionServiceLayer.AssemblyInfo.cs
+D:\programs\AuctionServiceLayer\obj\Debug\netcoreapp2.1\AuctionServiceLayer.csproj.CoreCompileInputs.cache
+D:\programs\AuctionServiceLayer\obj\Debug\netcoreapp2.1\AuctionServiceLayer.csproj.CopyComplete
+D:\programs\AuctionServiceLayer\obj\Debug\netcoreapp2.1\AuctionServiceLayer.dll
+D:\programs\AuctionServiceLayer\obj\Debug\netcoreapp2.1\AuctionServiceLayer.pdb

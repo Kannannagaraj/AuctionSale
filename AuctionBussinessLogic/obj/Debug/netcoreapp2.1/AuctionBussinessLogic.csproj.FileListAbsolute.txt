@@ -1,0 +1,8 @@
+D:\programs\AuctionBussinessLogic\bin\Debug\netcoreapp2.1\AuctionBussinessLogic.deps.json
+D:\programs\AuctionBussinessLogic\bin\Debug\netcoreapp2.1\AuctionBussinessLogic.dll
+D:\programs\AuctionBussinessLogic\bin\Debug\netcoreapp2.1\AuctionBussinessLogic.pdb
+D:\programs\AuctionBussinessLogic\obj\Debug\netcoreapp2.1\AuctionBussinessLogic.AssemblyInfoInputs.cache
+D:\programs\AuctionBussinessLogic\obj\Debug\netcoreapp2.1\AuctionBussinessLogic.AssemblyInfo.cs
+D:\programs\AuctionBussinessLogic\obj\Debug\netcoreapp2.1\AuctionBussinessLogic.csproj.CoreCompileInputs.cache
+D:\programs\AuctionBussinessLogic\obj\Debug\netcoreapp2.1\AuctionBussinessLogic.dll
+D:\programs\AuctionBussinessLogic\obj\Debug\netcoreapp2.1\AuctionBussinessLogic.pdb
